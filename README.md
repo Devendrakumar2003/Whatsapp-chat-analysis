@@ -16,7 +16,7 @@ import emoji
 
 2.  streamlit login
 
-3. to run write on terminal:   streamlit run app.py
+4. to run write on terminal:   streamlit run app.py
 
 
 
